@@ -1,0 +1,83 @@
+
+@media only screen and (max-width : 1260px) {
+   .banners-wrap  {
+   	flex-direction: column;
+   }
+   .banners-wrap .wb {
+   	width: 100%;
+   }
+     .banners-wrap .banner2 h3 {
+     	margin-bottom: 85px;
+     }
+ .banners-wrap .banner1 span{
+ 	position: absolute;
+    right: 50px;
+ }
+ .banners-wrap .banner2 span{
+ 	position: absolute;
+    right: 50px;
+ }
+ .banners-wrap .banner3 span{
+ 	position: absolute;
+    right: 50px;
+ }
+@media only screen and (max-width : 992px) {
+ .shop-products .s-main {
+ 	display: block;
+ }
+ .shop-products .s-main .s-main-img {
+ 	text-align: center;
+ }
+ .shop-products .levis {
+ 	    top: -216px;
+ }
+ .category .category-item {
+ 	display: block;
+ 	text-align: center;
+ 	padding-bottom: 30px;
+ }
+ .header .shop-box {
+ 	text-align: center;
+ }
+}
+
+@media only screen and (max-width : 768px) {
+	.header .logo {
+		display: none;
+	}
+.header .nav-menu .nav-list {
+	display: block;
+}
+.header .sf-menu > li {
+	float: none;
+}
+.category .category-header h1 {
+	font-size: 60px;
+}
+.shop-products .s-main-head h3 {
+	font-size: 40px;
+}
+}
+@media only screen and (max-width : 480px) {
+	.shop-products .s-main-btn {
+		display: block;
+		text-align: center;
+	}
+	.shop-products .s-main-btn #price {
+		margin-bottom: 20px;
+	}
+	.shop-products .levis {
+		 top: -214px;
+	}
+	.shop-products .levis img {
+		max-width: 100%;
+		   
+
+	}
+	.shop-products .s-main-head h3 {
+		font-size: 35px;
+	}
+	.banners-wrap .banner2 h3 {
+    margin-bottom: 55px;}
+    
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="28" viewBox="0 0 131 28">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 38.046px;
+        fill: #fff;
+        font-family: HelveticaNeue;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fec8cd;
+      }
+    </style>
+  </defs>
+  <text id="ZEBRA" class="cls-1" y="28">ZE<tspan class="cls-2">BRA</tspan></text>
+</svg>

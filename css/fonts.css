@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'HelveticaCyr-Upright';
+  src: url('../fonts/HelveticaCyr-Upright/HelveticaCyr-Upright.eot?#iefix') format('embedded-opentype'),  url('../fonts/HelveticaCyr-Upright/HelveticaCyr-Upright.woff') format('woff'), url('../fonts/HelveticaCyr-Upright/HelveticaCyr-Upright.ttf')  format('truetype'), url('../fonts/HelveticaCyr-Upright/HelveticaCyr-Upright.svg#HelveticaCyr-Upright') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaNeueBoldCondensed';
+  src: url('../fonts/HelveticaNeueBold/HelveticaNeueBoldCondensed.eot?#iefix') format('embedded-opentype'),  url('../fonts/HelveticaNeueBold/HelveticaNeueBoldCondensed.woff') format('woff'), url('../fonts/HelveticaNeueBold/HelveticaNeueBoldCondensed.ttf')  format('truetype'), url('../fonts/HelveticaNeueBold/HelveticaNeueBoldCondensed.svg#HelveticaNeueBoldCondensed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaNeueRegularCondensed';
+  src: url('../fonts/HelveticaNeueRegularHelveticaNeueRegularCondensed.eot?#iefix') format('embedded-opentype'),  url('../fonts/HelveticaNeueRegularHelveticaNeueRegularCondensed.woff') format('woff'), url('../fonts/HelveticaNeueRegularHelveticaNeueRegularCondensed.ttf')  format('truetype'), url('../fonts/HelveticaNeueRegularHelveticaNeueRegularCondensed.svg#HelveticaNeueBoldCondensed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+    /*font-family: 'Josefin Slab', serif;
+    font-family: 'HelveticaCyr-Upright';
+    font-family: 'HelveticaNeueBoldCondensed';*/
